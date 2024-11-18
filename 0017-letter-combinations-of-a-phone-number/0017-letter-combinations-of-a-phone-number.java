@@ -1,29 +1,31 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
-    private static final String[] PHONE_MAP = {
-        "", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
-    };
-    
-    public List<String> letterCombinations(String digits) {
-        List<String> combinations = new ArrayList<>();
-        if (digits.isEmpty()) return combinations;
-        backtrack(0, digits, new StringBuilder(), combinations);
-        return combinations;
+     public List<String> letterCombinations(String digits) {
+        List<String> ans = new ArrayList<>();
+        if (digits == null || digits.length() == 0)
+            return ans;
+        String[] mapping = {
+            "", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
+        };
+        f(digits, "", ans, mapping, 0);
+        return ans;
     }
-    
-    private void backtrack(int index, String digits, StringBuilder path, List<String> combinations) {
+
+    private List<String> f(String digits, String current, List<String> ans, String[] mapping, int index) {
         if (index == digits.length()) {
-            combinations.add(path.toString());
-            return;
+            ans.add(current);
+            return ans;
         }
-        
-        String possibleLetters = PHONE_MAP[digits.charAt(index) - '0'];
-        for (char letter : possibleLetters.toCharArray()) {
-            path.append(letter);
-            backtrack(index + 1, digits, path, combinations);
-            path.deleteCharAt(path.length() - 1); // Backtrack
+        String letters = mapping[digits.charAt(index) - '0']; // this will convert string value to int , so in first go "2" will be converted in 2 , and for 2 it will return abc
+        for (int i = 0; i < letters.length(); i++) {
+            f(digits, current + letters.charAt(i), ans, mapping, index + 1);
         }
+        return ans;
     }
 }
+                                // Reccursive tree
+
+//                                          "" | 23
+//                /                              |                        \
+//         "a" | 3                          "b" | 3                         "c" | 3
+//         /    |    \                  /    |    \                       /    |    \
+//   "ad" | "" "ae"| "" "af"| ""   "bd" | "" "be"| "" "bf"| ""   "cd" | "" "ce" |"" "cf" | ""
