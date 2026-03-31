@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/dev-chandan-pandey/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3474-lexicographically-smallest-generated-string](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,8 +64,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/dev-chandan-pandey/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3474-lexicographically-smallest-generated-string](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/dev-chandan-pandey/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
