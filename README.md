@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dev-chandan-pandey/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dev-chandan-pandey/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dev-chandan-pandey/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Simulation
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/dev-chandan-pandey/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/dev-chandan-pandey/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
