@@ -1,8 +1,8 @@
 class Solution {
     public int findMin(int[] nums) {
-        if(nums.length==1){
-            return nums[0];
-        }
+        // if(nums.length==1){
+        //     return nums[0];
+        // }
         int l = 0;
         int r =nums.length-1;
         int min =999;
