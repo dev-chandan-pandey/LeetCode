@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0396-rotate-function](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dev-chandan-pandey/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dev-chandan-pandey/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
