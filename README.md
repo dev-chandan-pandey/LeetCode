@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/dev-chandan-pandey/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dev-chandan-pandey/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/dev-chandan-pandey/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/dev-chandan-pandey/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -195,4 +197,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/dev-chandan-pandey/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 <!---LeetCode Topics End-->
