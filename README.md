@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0088-merge-sorted-array](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0396-rotate-function](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/dev-chandan-pandey/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/dev-chandan-pandey/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/dev-chandan-pandey/LeetCode/tree/main/2751-robot-collisions/) | Hard |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dev-chandan-pandey/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
