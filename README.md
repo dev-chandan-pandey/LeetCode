@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dev-chandan-pandey/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Counting
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/dev-chandan-pandey/LeetCode/tree/main/0061-rotate-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
